@@ -4,11 +4,16 @@ Aplicação de estudo construída com HTML, CSS e JavaScript para praticar manip
 
 ## Funcionalidades
 
-- Adicionar e editar tarefas.
-- Marcar tarefas como concluídas.
-- Excluir tarefas.
-- Pesquisar pelo texto das tarefas.
-- Filtrar entre todas, concluídas e pendentes.
+Adicionar e editar tarefas.
+
+Marcar tarefas como concluídas.
+
+Excluir tarefas.
+
+Pesquisar pelo texto das tarefas.
+
+Filtrar entre todas, concluídas e pendentes.
+
 
 ## Como executar
 
@@ -24,20 +29,29 @@ Não é necessário instalar dependências ou executar um processo de build. Os 
 
 ## Estrutura
 
-- `index.html`: estrutura da página.
-- `css/stales.css`: estilos utilizados pela aplicação.
-- `js/scripts.js`: criação, edição, busca e filtros das tarefas.
-- `img/`: imagens do projeto.
+`index.html`: estrutura da página.
+
+`css/stales.css`: estilos utilizados pela aplicação.
+
+`js/scripts.js`: criação, edição, busca e filtros das tarefas.
+
+`img/`: imagens do projeto.
+
 
 ## Estado atual e próximos passos
 
 As tarefas são mantidas apenas na página: alterações se perdem ao recarregar o navegador.
 
-- [ ] Persistir tarefas com `localStorage`.
-- [ ] Identificar tarefas por um ID para editar corretamente textos repetidos.
-- [ ] Aplicar busca e filtro em conjunto.
-- [ ] Melhorar os rótulos acessíveis dos botões.
-- [ ] Publicar uma demonstração e incluir capturas de tela.
+Persistir tarefas com `localStorage`.
+
+Identificar tarefas por um ID para editar corretamente textos repetidos.
+
+Aplicar busca e filtro em conjunto.
+
+Melhorar os rótulos acessíveis dos botões.
+
+Publicar uma demonstração e incluir capturas de tela.
+
 
 ## Autor
 
